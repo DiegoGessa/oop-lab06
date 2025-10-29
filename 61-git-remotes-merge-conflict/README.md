@@ -14,7 +14,7 @@ si verifichi lo stato del repository con `git status`.
 2. Ci si assicuri di avere localmente entrambi i branch remoti
 3. Si faccia il merge di `feature` dentro `master`, ossia: si posizioni la `HEAD` su `master`
    e da qui si esegua il merge di `feature`
-4. Si noti che viene generato un **merge conflict**!
+4. Si noti che viene generato un **merge conflict**
 5. Si risolva il merge conflict come segue:
    - Il programma Java risultante deve stampare sia il numero di processori disponibili
      (funzionalità presente su `master`)
