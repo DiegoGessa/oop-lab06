@@ -24,3 +24,4 @@ si verifichi lo stato del repository con `git status`.
 7. Si aggiunga il nuovo repository creato come **remote** e si elenchino i remote
 8. Si faccia push del branch `master` sul proprio repository
 9. Si setti il branch remoto `master` del nuovo repository come *upstream* per il proprio branch `master` locale
+  
